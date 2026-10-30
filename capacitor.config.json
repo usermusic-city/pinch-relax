@@ -1,0 +1,12 @@
+{
+  "appId": "com.foxo.pinch",
+  "appName": "捏一下",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
